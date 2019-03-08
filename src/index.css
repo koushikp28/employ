@@ -12,3 +12,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+i {
+  float: right;
+  font-weight: bold;
+  margin-right: 15%;
+  font-size: x-large;
+}
+
+i:hover {
+  color: forestgreen;
+}
